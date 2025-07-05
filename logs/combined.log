@@ -1,0 +1,12 @@
+2025-07-05 01:38:30:3830 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 01:40:20:4020 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:40:20 +0000] "GET / HTTP/1.1" 500 245 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:44:16:4416 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:44:16 +0000] "GET / HTTP/1.1" 500 245 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:45:22:4522 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 01:45:46:4546 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 01:46:19:4619 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 01:46:19:4619 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:46:19 +0000] "GET / HTTP/1.1" 200 23 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:46:20:4620 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:46:20 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:9001/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:46:55:4655 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 01:47:10:4710 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:47:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:47:26:4726 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:47:26 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 01:48:32:4832 [32minfo[39m: [32mListening at http://localhost:9001/api[39m

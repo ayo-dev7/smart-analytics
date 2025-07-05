@@ -1,0 +1,26 @@
+{
+  "name": "@or-smart-analytics/api-gateway-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@or-smart-analytics/api-gateway"
+    ],
+    "targets": {
+      "e2e": {
+        "executor": "@nx/jest:jest",
+        "outputs": [
+          "{projectRoot}/test-output/jest/coverage"
+        ],
+        "options": {
+          "jestConfig": "apps/api-gateway-e2e/jest.config.ts",
+          "passWithNoTests": true
+        },
+        "dependsOn": [
+          "@or-smart-analytics/api-gateway:build",
+          "@or-smart-analytics/api-gateway:serve"
+        ]
+      }
+    }
+  }
+}
