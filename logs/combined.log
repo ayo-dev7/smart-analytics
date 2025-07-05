@@ -52,3 +52,6 @@
 2025-07-05 05:44:42:4442 [32minfo[39m: [32m::1 - - [05/Jul/2025:04:44:42 +0000] "GET /trpc/health?batch=1&input=%7B%7D HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
 2025-07-05 05:46:18:4618 [32minfo[39m: [32m[2025-07-05T04:46:18.355Z] undefined - 67ms - ::1[39m
 2025-07-05 05:46:18:4618 [32minfo[39m: [32m::1 - - [05/Jul/2025:04:46:18 +0000] "GET /trpc/health?batch=1&input=%7B%7D HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 05:47:04:474 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:47:04:474 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:47:04:474 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
