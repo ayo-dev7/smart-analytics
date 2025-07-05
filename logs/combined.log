@@ -10,3 +10,45 @@
 2025-07-05 01:47:10:4710 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:47:10 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
 2025-07-05 01:47:26:4726 [32minfo[39m: [32m::1 - - [05/Jul/2025:00:47:26 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
 2025-07-05 01:48:32:4832 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 04:12:27:1227 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 04:12:38:1238 [32minfo[39m: [32m::1 - - [05/Jul/2025:03:12:38 +0000] "GET / HTTP/1.1" 500 265 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 04:16:55:1655 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 04:16:58:1658 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 04:16:58:1658 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 04:16:58:1658 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 04:17:04:174 [32minfo[39m: [32m::1 - - [05/Jul/2025:03:17:04 +0000] "GET / HTTP/1.1" 200 23 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 04:17:15:1715 [32minfo[39m: [32m::1 - - [05/Jul/2025:03:17:15 +0000] "GET /trpc HTTP/1.1" 404 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 04:23:17:2317 [32minfo[39m: [32m::1 - - [05/Jul/2025:03:23:17 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 04:39:47:3947 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 04:39:47:3947 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 04:39:47:3947 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 04:39:47:3947 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:09:35:935 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:09:35:935 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:09:35:935 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:10:20:1020 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:10:20:1020 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:10:20:1020 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:19:26:1926 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:19:26:1926 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:19:26:1926 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:21:45:2145 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:21:45:2145 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:21:45:2145 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:21:59:2159 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 05:21:59:2159 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:21:59:2159 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:21:59:2159 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:32:10:3210 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:32:10:3210 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:32:10:3210 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:44:36:4436 [32minfo[39m: [32m🚀 SmartAnalytics API server running on port 7001[39m
+2025-07-05 05:44:36:4436 [32minfo[39m: [32m📊 Health check: http://localhost:7001/health[39m
+2025-07-05 05:44:36:4436 [32minfo[39m: [32m🔗 API base URL: http://localhost:7001/api[39m
+2025-07-05 05:44:40:4440 [32minfo[39m: [32mListening at http://localhost:9001/api[39m
+2025-07-05 05:44:41:4441 [32minfo[39m: [32m[2025-07-05T04:44:41.932Z] undefined - 65ms - ::1[39m
+2025-07-05 05:44:41:4441 [32minfo[39m: [32m::1 - - [05/Jul/2025:04:44:41 +0000] "GET /trpc/health?batch=1&input=%7B%7D HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 05:44:42:4442 [32minfo[39m: [32m[2025-07-05T04:44:42.816Z] undefined - 48ms - ::1[39m
+2025-07-05 05:44:42:4442 [32minfo[39m: [32m::1 - - [05/Jul/2025:04:44:42 +0000] "GET /trpc/health?batch=1&input=%7B%7D HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m
+2025-07-05 05:46:18:4618 [32minfo[39m: [32m[2025-07-05T04:46:18.355Z] undefined - 67ms - ::1[39m
+2025-07-05 05:46:18:4618 [32minfo[39m: [32m::1 - - [05/Jul/2025:04:46:18 +0000] "GET /trpc/health?batch=1&input=%7B%7D HTTP/1.1" 200 - "http://localhost:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"[39m

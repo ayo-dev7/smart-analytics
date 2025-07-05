@@ -58,3 +58,18 @@ export const uploadRateLimit = createRateLimiter({
     max: 10,
     keyGenerator: (req) => `upload:${req.user?.id ?? "anonymous"}`
 });
+
+export const getRateLimitCount = async(key: string): Promise<number> => {
+    const count = await redis.get(key);
+    return count ? parseInt(count) : 0;
+}
+
+export const incrementRateLimitCount = async(key: string, windowMs: number) => {
+    const exists = await redis.exists(key);
+
+    await redis.incr(key);
+    
+    if(!exists) {
+        await redis.expire(key, Math.ceil(windowMs/1000));
+    }
+}
